@@ -1,6 +1,13 @@
 # dash-galactica-demo
 Demo of galactica 1.3B model as a dash webapp
 
+## Sources
+
+- [Galactica 1.3B model](https://huggingface.co/facebook/galactica-1.3b)
+- [Dash](https://dash.plotly.com/)
+- [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/)
+- [Dash Mantine Components](https://www.dash-mantine-components.com/)
+
 ## Installation
 
 Pull the repo:
